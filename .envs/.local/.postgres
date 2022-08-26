@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=nomina_alumnos
+POSTGRES_USER=qgXMaqDhwbezbuoPXlnbmICyUrtJxCvb
+POSTGRES_PASSWORD=Fl5wGwnahv1fLjLWiPktli8pqjGykY3y0w4brDqBPZlbNA6sV2ZVAgVP5cSUC55l
